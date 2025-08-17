@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@theme {
+ --font-sans:'sans-serif';
+    
+}
+
+body {
+  @apply font-sans;
+}
